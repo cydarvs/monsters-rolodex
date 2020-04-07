@@ -46,6 +46,7 @@ handleChange = e => {
     
     return (
       <div className="App">
+        <h1> Monsters Rolodex </h1>
         {/* console.log(e.target.value)} */}
         
         {
