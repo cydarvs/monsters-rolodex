@@ -10,7 +10,7 @@ class App extends Component{
 
     this.state = {
       monsters: [],
-      searchField: ''
+      searchField: '',
     };
 
     // bind functions is required if ur not using arrow function method
